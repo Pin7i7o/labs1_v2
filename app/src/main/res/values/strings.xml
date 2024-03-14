@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">labs1_v2</string>
+    <string name="at1_text">Atividade 1</string>
+    <string name="main_at2_btn">Atividade 2</string>
+    <string name="at2_main_text">Atividade 2</string>
+    <string name="at2_student_txt">Guilherme Pinto | EI | 28236</string>
+    <string name="close_at2_btn">Fechar AT2</string>
+</resources>

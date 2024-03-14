@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">labs1_v2</string>
+    <string name="at1_text">Activity 1</string>
+    <string name="main_at2_btn">Activity 2</string>
+    <string name="at2_main_text">Activity 2</string>
+    <string name="at2_student_txt">Guilherme Pinto | EI | 28236</string>
+    <string name="close_at2_btn">Close AT2</string>
+</resources>
